@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class odev_manav_kasa {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        
+
         double total;
         double pear = 2.14,
                 apple = 3.67,
