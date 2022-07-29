@@ -20,7 +20,7 @@ Best case : O(n)
 Average case : O(n^2)
 Worst case : O(n^2)
 
-**4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? **
+**4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?**
 
 Average case.
 
